@@ -7,7 +7,7 @@ Dieses Projekt enthält SQL-Abfragen und Skripte zur Analyse der Verkaufs- und B
 - SQL-Skripte zur Datenanalyse
 - Identifizierung von Optimierungspotenzialen
 - Tabellarische Ergebnisse
-- Optionale Visualisierung in PowerBI Dashboards
+- Optionale Visualisierung mit Python
 
 ## Installation
 1. Klone dieses Repository:
