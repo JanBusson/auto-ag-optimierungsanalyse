@@ -5,19 +5,18 @@ Dieses Projekt enthält SQL-Abfragen und Skripte zur Analyse der Verkaufs- und B
 
 ## Funktionen
 **[SQL-Skripte zur Datenanalyse](KPMG_Analysis_SQL_Queries.md)**
+
 ## Ergebnisse und Optimierungspotenziale
+Die Präsentation der Ergebnisse umfasst folgende Punkte:
 
-1. **Ergebispräsentation**
-   - Detaillierte Darstellung der Ergebnisse, die während des Projekts erzielt wurden.
+- **Identifizierung von Optimierungspotenzialen**
+  - Analyse der Ergebnisse und Identifikation von Bereichen, die verbessert werden können.
 
-2. **Identifizierung von Optimierungspotenzialen**
-   - Analyse und Vorschläge zur Verbesserung von Prozessen und Ergebnissen.
+- **Tabellarische Ergebnisse**
+  - Präsentation der wichtigsten Ergebnisse in Tabellenform.
 
-3. **Tabellarische Ergebnisse**
-   - Eine strukturierte Darstellung der Ergebnisse in Tabellenform.
-
-4. **Visualisierung mit Python**
-   - Verwendung von Python zur grafischen Darstellung der Ergebnisse (z.B. durch Diagramme und Plots).
+- **Visualisierung mit Python**
+  - Verwendung von Python, um die Ergebnisse grafisch darzustellen (z.B. durch Diagramme und Plots).
 
 ## Installation
 1. Klone dieses Repository:
