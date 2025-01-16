@@ -4,7 +4,7 @@
 Dieses Projekt enthält SQL-Abfragen und Skripte zur Analyse der Verkaufs- und Betriebsdaten der Auto AG. Ziel ist es, wirtschaftliche Optimierungspotenziale in Bereichen wie Lieferantenverträgen, Produktionsprozessen und allgemeinen Geschäftsabläufen zu identifizieren.
 
 ## Funktionen
--  [SQL-Skripte zur Datenanalyse](KPMG_Analysis_SQL_Queries.md)
+**[SQL-Skripte zur Datenanalyse](KPMG_Analysis_SQL_Queries.md)**
 ## Ergebnisse und Optimierungspotenziale
 
 1. **Ergebispräsentation**
