@@ -7,7 +7,7 @@ Dieses Projekt enthält SQL-Abfragen und Skripte zur Analyse der Verkaufs- und B
 **[SQL-Skripte zur Datenanalyse](KPMG_Analysis_SQL_Queries.md)**
 
 ## Ergebnisse und Optimierungspotenziale
-Die Präsentation der Ergebnisse umfasst folgende Punkte:
+Die **[Präsentation](AutoAG_Analyse_JanBusson.pptx)** der Ergebnisse umfasst folgende Punkte:
 
 - **Identifizierung von Optimierungspotenzialen**
   - Analyse der Ergebnisse und Identifikation von Bereichen, die verbessert werden können.
